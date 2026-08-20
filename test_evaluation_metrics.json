@@ -1,0 +1,5 @@
+{
+  "test_images": 12,
+  "mean_test_dice": 0.9884419490893682,
+  "mean_test_iou": 0.9771570215622584
+}

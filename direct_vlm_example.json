@@ -1,0 +1,37 @@
+{
+  "image_id": "train_000",
+  "naive_prompt": "Describe this medical image.",
+  "optimised_prompt": "You are a descriptive biomedical image assistant. This is a DAPI-like fluorescence microscopy image of nuclei. Describe only visible image content, never diagnose, infer patient information, or invent facts. Return JSON only with exactly these keys: modality, tissue_type, notable_features, image_quality. Use uncertain when evidence is insufficient. notable_features must be a short array of observable features.",
+  "runs": [
+    {
+      "modality": "fluorescence microscopy",
+      "tissue_type": "uncertain",
+      "notable_features": [
+        "bright blue objects on dark background"
+      ],
+      "image_quality": "uncertain",
+      "source": "fallback",
+      "prompt_type": "optimised"
+    },
+    {
+      "modality": "fluorescence microscopy",
+      "tissue_type": "uncertain",
+      "notable_features": [
+        "bright blue objects on dark background"
+      ],
+      "image_quality": "uncertain",
+      "source": "fallback",
+      "prompt_type": "naive"
+    },
+    {
+      "modality": "fluorescence microscopy",
+      "tissue_type": "uncertain",
+      "notable_features": [
+        "bright blue objects on dark background"
+      ],
+      "image_quality": "uncertain",
+      "source": "fallback",
+      "prompt_type": "optimised"
+    }
+  ]
+}

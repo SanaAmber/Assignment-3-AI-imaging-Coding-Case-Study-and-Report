@@ -1,0 +1,7 @@
+{
+  "unet_best_val_epoch": 8,
+  "unet_best_val_dice": 0.9891679525375366,
+  "unet_best_val_iou": 0.9785817742347718,
+  "otsu_mean_val_dice": 0.9759966522455216,
+  "otsu_mean_val_iou": 0.9531391769647598
+}

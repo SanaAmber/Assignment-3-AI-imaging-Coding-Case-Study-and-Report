@@ -1,0 +1,16 @@
+{
+  "image_id": "train_000",
+  "n_objects": 9,
+  "mean_area": 141.222,
+  "density_class": "sparse",
+  "shape_regularity": "regular",
+  "quality_flag": "acceptable",
+  "narrative": "The segmented image contains 9 connected objects with mean area 141.222 pixels. The measured density is sparse, the average shape is regular, and the automated quality flag is acceptable. These are image-derived measurements, not a diagnosis.",
+  "llm_record": {
+    "n_objects": 9,
+    "density_class": "sparse",
+    "shape_regularity": "regular",
+    "quality_flag": "acceptable",
+    "source": "fallback"
+  }
+}

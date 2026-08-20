@@ -1,0 +1,38 @@
+[
+  {
+    "image_id": "test_000_blur",
+    "n_objects": 7,
+    "mean_area": 272.143,
+    "density_class": "sparse",
+    "shape_regularity": "regular",
+    "quality_flag": "acceptable",
+    "narrative": "The segmented image contains 7 connected objects with mean area 272.143 pixels. The measured density is sparse, the average shape is regular, and the automated quality flag is acceptable. These are image-derived measurements, not a diagnosis."
+  },
+  {
+    "image_id": "test_000_lowcontrast",
+    "n_objects": 1,
+    "mean_area": 65536.0,
+    "density_class": "sparse",
+    "shape_regularity": "regular",
+    "quality_flag": "acceptable",
+    "narrative": "The segmented image contains 1 connected objects with mean area 65536.0 pixels. The measured density is sparse, the average shape is regular, and the automated quality flag is acceptable. These are image-derived measurements, not a diagnosis."
+  },
+  {
+    "image_id": "test_004_blur",
+    "n_objects": 18,
+    "mean_area": 1136.667,
+    "density_class": "moderate",
+    "shape_regularity": "regular",
+    "quality_flag": "acceptable",
+    "narrative": "The segmented image contains 18 connected objects with mean area 1136.667 pixels. The measured density is moderate, the average shape is regular, and the automated quality flag is acceptable. These are image-derived measurements, not a diagnosis."
+  },
+  {
+    "image_id": "test_004_lowcontrast",
+    "n_objects": 1,
+    "mean_area": 65536.0,
+    "density_class": "sparse",
+    "shape_regularity": "regular",
+    "quality_flag": "acceptable",
+    "narrative": "The segmented image contains 1 connected objects with mean area 65536.0 pixels. The measured density is sparse, the average shape is regular, and the automated quality flag is acceptable. These are image-derived measurements, not a diagnosis."
+  }
+]
